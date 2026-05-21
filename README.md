@@ -9,7 +9,7 @@ To improve response speed and efficiency, the chatbot uses two caching mechanism
 
 The project uses the real-world consumer complaint dataset provided by the Consumer Financial Protection Bureau (CFPB), which contains customer complaints, issue categories, and resolution information. Based on the retrieved complaint data, the chatbot identifies the issue category and generates an appropriate response.
 
-                          ![Architecture Diagram](architecture_diagram.png)
+                          ![img](images/architecture_diagram.png)
                           
 The final response is translated back into the user’s original language and displayed along with the similarity score and cache status. This helps improve transparency and demonstrates how the system processes complaints efficiently.
 
